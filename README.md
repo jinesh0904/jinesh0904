@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jinesh.K.J
+- 👀 I’m interested in Front-End-Development
+- 🌱 I’m currently learning Data Structures.
+- 💞️ I’m looking to collaborate on Design oriented Projects
+- 📫 Reach me on -  INSTAGRAM / (_j.i.n.e.s.h_)
